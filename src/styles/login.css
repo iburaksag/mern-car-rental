@@ -1,0 +1,19 @@
+.form__container {
+    background: #262e6a;
+    border-radius: 50px;
+    width: 40%;
+} 
+
+.btn__login {
+    padding: 7px 15px!important;
+    background: #fff!important;
+    color: #262e6a!important;
+    font-weight: bold;
+    border: none!important;
+    outline: none!important;
+    border-radius:5px!important;
+}
+
+.btn__login:hover{
+    opacity: 0.6;
+}
