@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Rent a Car Full Stack Web Application, MongoDB & Express.js & React.js & Node.js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> #mongodb #express #react #node #datastore #firebase #html #css #bootstrap #webscraping #jwt #stripe
+
+I undertook the creation of a dissertation project as a pivotal component of my master's degree pursuit. The project centered around the concept of a car rental platform, materializing as a dynamic web application. Employing a sophisticated technological stack, the project harnessed the prowess of MongoDB, Express.js, React.js, and Node.js for its comprehensive development. To fortify the security framework, the system integrated JWT Authentication, bolstering the authentication mechanisms. The integration of Stripe as the designated checkout gateway method seamlessly facilitated the transactional processes. A unique dimension of the project arose from the incorporation of web scraping techniques, meticulously applied to fulfill the request articulated by the lecturer. This method was deftly employed to enable efficient car searches, imparting a distinctive and innovative edge to the entire undertaking. Please check the GitHub repo for more details.
+
+
 
 ## Available Scripts
 
